@@ -2,7 +2,7 @@
 
 Project to practise React,Sass, Firebase and more...
 ## Author: Jonathan Navas
-
+You visit this project here [Github Link](https://jonathannavas.github.io/reactJS-journal-app/)
 You can run this project with 
 ```
     npm start
