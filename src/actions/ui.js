@@ -1,5 +1,6 @@
 import { types } from "../types/types"
 
+// funciones sincronas
 
 export const setError = (err) => {
     return {
